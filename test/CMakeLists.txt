@@ -1,7 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project (hate_cpp_test CXX)
-
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+project(Hate_cpp_test CXX)
 
 find_package(GTest REQUIRED)
 

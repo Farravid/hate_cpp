@@ -1,7 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project (hate_cpp_benchmark CXX)
-
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+project (Hate_cpp_benchmark CXX)
 
 find_package(benchmark REQUIRED)
 
