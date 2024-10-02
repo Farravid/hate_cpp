@@ -1,0 +1,9 @@
+[requires]
+zlib/1.2.11
+uwebsockets/20.67.0
+gtest/1.15.0
+benchmark/1.9.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
